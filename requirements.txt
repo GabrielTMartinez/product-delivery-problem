@@ -1,0 +1,2 @@
+networkx == 1.11
+Flask == 0.12.2
