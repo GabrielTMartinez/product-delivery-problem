@@ -1,3 +1,3 @@
-from .core import runShit
+from .core import run
 
-runShit()
+run()

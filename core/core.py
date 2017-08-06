@@ -1,2 +1,2 @@
-def runShit():
+def run():
     print("xz")
