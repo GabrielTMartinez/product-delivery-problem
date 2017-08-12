@@ -1,3 +1,3 @@
-from .core import run
+from .Core import Core
 
-run()
+Core().run()
